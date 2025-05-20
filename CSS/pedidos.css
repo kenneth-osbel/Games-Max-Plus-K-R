@@ -1,0 +1,190 @@
+body {
+  background-color:#000000;
+}
+.subtitulo1 {
+  background:#1294f1;
+}
+.subtituloN {
+  background-color:#d42730;
+}
+.subtituloP {
+  background-color:#0051ff;
+}
+.subtituloX {
+  background-color:#1f9c26;
+}
+.subtituloPC {
+  background-color:#212121;
+}
+.sub1{
+  background-color:#451170;
+}
+.contenedor1 {
+  display: flex;
+  justify-content: center;
+}
+.imagen-1 {
+  width: 350px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border-radius: 8px;
+}
+.centrado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20%;
+}
+.table1{
+  width: 1150px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(21, 67, 128);
+  background: rgba(54, 82, 119, 0.616);
+  text-align: center;
+}
+.table1-2{
+  width: 790px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(21, 67, 128);
+  background: rgba(54, 82, 119, 0.616);
+  text-align: center;
+}
+.table2{
+  width: 1150px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(143, 10, 10);
+  background: rgba(95, 24, 24, 0.774);
+  text-align: center;
+}
+.table2-2{
+  width: 790px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(143, 10, 10);
+  background: rgba(95, 24, 24, 0.774);
+  text-align: center;
+}
+.table3{
+  width: 1150px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(32, 143, 10);
+  background: rgba(32, 95, 24, 0.774);
+  text-align: center;
+}
+.table3-2{
+  width: 430px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(32, 143, 10);
+  background: rgba(32, 95, 24, 0.774);
+  text-align: center;
+}
+.table4{
+  width: 1150px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(190, 187, 187);
+  background: rgba(129, 122, 122, 0.774);
+  text-align: center;
+}
+.table4-2{
+  width: 430px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px dashed rgb(190, 187, 187);
+  background: rgba(129, 122, 122, 0.774);
+  text-align: center;
+}
+.texto{
+  width: 1150px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: 3px outset rgb(226, 206, 206);
+  background: rgba(86, 71, 114, 0.726);
+  text-align: justify;
+}
+.texto2{
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border: 3px outset rgb(76, 41, 99);
+  background: rgb(247, 239, 255);
+  text-align: justify;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.contenedor{
+  background: tomato;
+  width: 100%;
+  margin: auto;
+}
+header{
+  height: 600px;
+  background-image: url("../Imagenes/fotos/fondo.png");
+  background-position: center;
+  background-size: cover;
+}
+main{
+  background: white;
+  padding: 20px 30px;
+}
+main .foto{
+  width: 150px;
+  height: 150px;
+  background-color: teal;
+  border-radius: 50%;
+  margin: -90px 0 20px 0;
+  border: 6px solid #ffffff;
+}
+main .foto img{
+  width: 100%;
+  border-radius: 50%;
+}
+footer{
+  background: rgb(247, 211, 53);
+  text-align: center;
+  padding: 25px;
+  color: #000000;
+}
+.txt{
+  text-align: center;
+}
+a{
+  display: block;
+}

@@ -1,0 +1,102 @@
+body {
+    background-color:#000000;
+}
+.subtitulo1 {
+    background-color:#0e44947c;
+}
+.subtituloN {
+    background-color:#d42730;
+}
+.subtituloP {
+    background-color:#0051ff;
+}
+.subtituloX {
+    background-color:#1f9c26;
+}
+.subtituloPC {
+    background-color:#212121;
+}
+footer{
+    background: rgb(6, 125, 236);
+    text-align: center;
+    padding: 25px;
+    color: #ffffff;
+}
+.imagen-1 {
+    width: 100%;
+    height: 200px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.imagen-2 {
+    width: 350px;
+    height: 200px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.texto{
+    width: 1100px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 3px outset rgb(226, 206, 206);
+    background: rgba(86, 71, 114, 0.726);
+    text-align: justify;
+}
+.pc{
+    width: 1040px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 3px dashed rgb(99, 134, 111);
+    background: rgba(26, 104, 80, 0.671);
+    text-align: center;
+}
+.consola1{
+    width: 800px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 3px dashed rgb(143, 144, 214);
+    background: rgba(27, 30, 224, 0.726);
+    text-align: center;
+}
+.consola2{
+    width: 600px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 3px dashed rgb(130, 185, 139);
+    background: rgba(4, 129, 4, 0.671);
+    text-align: center;
+}
+.consola3{
+    width: 1150px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 3px dashed rgb(219, 106, 106);
+    background: rgba(214, 38, 38, 0.726);
+    text-align: center;
+}
+.consola3-1{
+    width: 420px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 3px dashed rgb(219, 106, 106);
+    background: rgba(214, 38, 38, 0.726);
+    text-align: center;
+}
